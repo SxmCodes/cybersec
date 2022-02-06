@@ -1,9 +1,9 @@
-# NetCat
+# NetCat 😼
 
-1. What is Netcat?
+1. What is Netcat ❓ 
 
 ```
- It allows you to send/receive TCP/UDP packets.
+ It allows you to send/receive TCP/UDP packets 😎
 ```
 
 2. Example
