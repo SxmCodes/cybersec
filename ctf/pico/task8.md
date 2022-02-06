@@ -1,10 +1,10 @@
 # Task 8 - Stonks
 
-### Binary Exploitation.
+### Binary Exploitation. 😕
 
 **Question**
 
-1. They gave us this c code.
+1. They gave us this c code 🤡
 
 ```c
 #include <stdlib.h>
@@ -160,7 +160,7 @@ int main(int argc, char *argv[])
 2. What's wrong with this?
 
 ```
-There is a vulnerability on line 93.
+There is a vulnerability on line 93 😃
 ```
 
 **Answers**
