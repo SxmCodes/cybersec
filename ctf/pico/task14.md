@@ -7,9 +7,9 @@
 
 **Answer**
 
-1. We ran it and make our coin ```1040``` by writing ```-100```
+1. We ran it and make our coin ```1040``` by writing ```-100``` 🆒
 
-2. We got this
+2. We got this 🚀
 
 _Fruit flag_
 ```[112 105 99 111 67 84 70 123 98 52 100 95 98 114 111 103 114 97 109 109 101 114 95 53 51 50 98 99 100 57 56 125]```
