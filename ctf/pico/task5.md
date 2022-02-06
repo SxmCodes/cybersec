@@ -1,11 +1,11 @@
 # Task 5
 
-They gave us cat.jpg
+They gave us cat.jpg 🐱
 
 Then just used command **exiftool** to get the information of that file.
 
 ```
-exiftool - Read and write meta information in files
+exiftool - Read and write meta information in files 😄
 
 The lisence things was base64 type.
 ```
