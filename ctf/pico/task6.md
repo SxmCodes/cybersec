@@ -1,4 +1,4 @@
-# Task 6 - Netcat
+# Task 6 - Netcat 🐈
 
 **Question**
 
